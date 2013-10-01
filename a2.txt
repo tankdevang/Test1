@@ -1,0 +1,2 @@
+a2 file
+Updated file's extention and added this line
